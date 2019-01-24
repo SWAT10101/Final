@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Axis Technical</string>
+    <string name="result">Result</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="enter_serial_number_here">Enter serial number here</string>
+    <string name="device_serial_number">Device Serial Number</string>
+    <string name="enter_plate_number_or_fleet_id">Enter plate number</string>
+    <string name="vehicle_plate_number_or_fleet_id">Vehicle Plate Number Or Fleet ID</string>
+    <string name="vehicle_make">Vehicle Make</string>
+    <string name="vehicle_model">Vehicle Model</string>
+    <string name="example_bmw_nissan_etc">Example Bmw, Nissan, etc…</string>
+    <string name="year">Year</string>
+    <string name="cropped_image_for_device_serial_number">cropped image for device serial number</string>
+    <string name="cropped_image_for_plate_number">cropped image for plate number</string>
+    <string name="device_model">Device Model</string>
+    <string name="your_selection">Your selection:  </string>
+    <string name="date">Date</string>
+    <string name="select_date">Select Date</string>
+    <string name="selected_date">Selected Date:</string>
+    <string name="custom_date">Custom Date</string>
+    <string name="current_date">Current Date</string>
+    <string name="odometer">Odometer</string>
+    <string name="task_type">Task Type</string>
+    <string name="company_name">Enter company name</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="send">Send</string>
+    <string name="gps">GPS</string>
+    <string name="customer">Customer</string>
+    <string name="device_serial_number_device_type"><![CDATA[Device Serial Number & Device Type]]></string>
+    <string name="customer_task_type"><![CDATA[Customer & Task Type]]></string>
+    <string name="data_time_gps"><![CDATA[Data-Time & GPS]]></string>
+    <string name="todo">TODO</string>
+    <string name="enter_odometer_number">Enter odometer number</string>
+    <string name="remember_me">Remember me</string>
+    <string name="fleet_id">Fleet ID (operational)</string>
+
+
+</resources>
