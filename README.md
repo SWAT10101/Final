@@ -1,1 +1,1 @@
-This app only for TEST.
+This app will use asix API later.
